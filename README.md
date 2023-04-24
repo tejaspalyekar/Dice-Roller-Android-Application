@@ -1,1 +1,1 @@
-# Dice-Roller-Android-Application
+# Dice-Roller-Mobile-Application-Android-Studio
